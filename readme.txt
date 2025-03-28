@@ -1,3 +1,4 @@
+##live preview: https://sagar0006.github.io/html_static_knight_project/
 Thanks for downloading this theme!
 
 Theme Name: Knight
